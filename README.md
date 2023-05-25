@@ -3,6 +3,7 @@ h1>Hi, I'm Clyde ! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Project  (AlgoExpert)</b>
+- Creating a Live SOC/ Honeynet in Azure (https://github.com/Goliath101/Azure_SOC)
   - 
 
 <h2>📺 Popular YouTube Videos</h2>
